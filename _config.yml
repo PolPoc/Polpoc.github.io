@@ -13,7 +13,7 @@ permalink:           pretty
 # Setup
 title:               Polpoc-Cybersec
 tagline:             'A Pentester Blog'
-description:         'Polpoc blog'
+description:         'Polpoc-Cybersec'
 url:                 https://polpoc.github.io
 baseurl:             /
 paginate:            7
