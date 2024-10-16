@@ -11,9 +11,9 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Polpoc-Cybersec
+title:               Polpoc Cybersecurity
 tagline:             'A Pentester Blog'
-description:         'Polpoc-Cybersec'
+description:         'Pwning Labs'
 url:                 https://polpoc.github.io
 baseurl:             /
 paginate:            7
@@ -29,8 +29,6 @@ version:             2.0
 
 # Social Media
 github:				https://github.com/PolPoc
-twitter:			
-disqus:             testnaringu
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
