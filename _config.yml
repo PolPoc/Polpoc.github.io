@@ -11,8 +11,8 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Polpoc Cybersecurity
-tagline:             'A Pentester Blog'
+title:               POLPOC CYBERSECURITY
+tagline:             'Pentesting Blog'
 description:         'Pwning Labs'
 url:                 https://polpoc.github.io
 baseurl:             /
@@ -20,9 +20,9 @@ paginate:            7
 
 # About/contact
 author:
-  name:              PMR
+  name:              Polpoc
   url:               https://polpoc.github.io
-  email:             gnrrmpj@outlook.com
+  email:             someone@proton.me
 
 # Custom vars
 version:             2.0
@@ -30,8 +30,4 @@ version:             2.0
 # Social Media
 github:				https://github.com/PolPoc
 
-# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
-theme:
-  creator:			Rizky Ariestiyansyah
-  codename:			Naringu
-  link:             https://github.com/ariestiyansyah/naringu
+
